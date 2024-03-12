@@ -1,4 +1,4 @@
-### Hello World, I'm Joo Jongmin 👋
+### Hello World, I'm Gromit 👋
 
 <!--
 **Gouache-studio/Gouache-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
